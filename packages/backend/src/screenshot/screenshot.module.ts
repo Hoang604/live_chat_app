@@ -7,4 +7,4 @@ import { ScreenshotService } from './screenshot.service';
   controllers: [ScreenshotController],
   providers: [ScreenshotService],
 })
-export class UtilsModule {}
+export class ScreenshotModule {}
